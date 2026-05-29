@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [深度拆解 Claude Opus 4.8：一个学会说"我不确定"的模型，和它身后那头不敢放出来的怪兽](./claude-opus-4-8.html)
 - [深度拆解 Gemini Spark：谷歌的"云端代理人"赶到了一个已经被预订满的派对](./gemini-spark.html)
 - [Google I/O 2026 一文看尽：Pichai 在 Mountain View 摔出来的 24 张牌](./google-io-2026.html)
 - [深度拆解 Antigravity：Google 废长立幼，AI 编程进入"操作系统"时代](./antigravity.html)

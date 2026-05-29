@@ -18,7 +18,7 @@ layout: default
 
 - [LFM2.5-8B-A1B: an Even Better on-Device Mixture-of-Experts — Liquid AI](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
 - [LiquidAI/LFM2.5-8B-A1B — Hugging Face](https://huggingface.co/LiquidAI/LFM2.5-8B-A1B)
-- [grok-build-0.1 now available via the xAI API — xAI](https://x.com/elonmusk/status/2060451655301132662)
+- [grok-build-0.1 now available via the xAI API — xAI](https://x.ai/news/grok-build-0-1)
 - [Introducing a new design for Microsoft 365 Copilot — Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/)
 - [ElevenLabs Dubbing — ElevenLabs](https://elevenlabs.io/dubbing)
 

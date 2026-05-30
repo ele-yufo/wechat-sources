@@ -20,6 +20,8 @@ layout: default
 
 ## 行业
 
+- [SoftBank to Build 5 GW of AI Data Center Capacity in France — SoftBank](https://group.softbank/en/news/press/20260531_0)
+- [SoftBank says it will invest up to €75 billion to build French data centers — TechCrunch](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
 - [Meta is reportedly developing an AI pendant — TechCrunch](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)
 - [Meta plans AI pendant, 'Wearables for Work' — The Information (via KFGO)](https://kfgo.com/2026/05/29/meta-plans-wearables-for-work-and-ai-pendant-the-information-reports/)
 - [Corporate America Is Starting to Ration AI as Cost Skyrockets — WSJ](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 求证 · PolyKV 多 Agent 共享 KV 缓存 · 主要来源
+title: 论文实战 · PolyKV 多 Agent 共享压缩 KV · 主要来源
 ---
 
-# 求证 · PolyKV：多 Agent 共享 KV 缓存 · 主要来源
+# 论文实战 · PolyKV：多 Agent 共享压缩 KV · 主要来源
 
-本页汇集《求证 · PolyKV：多 Agent 共享 KV 缓存省 97.7% 显存，是真的吗？我独立跑了一遍》一文涉及的论文、代码与资料。
+本页汇集《论文实战 · PolyKV：多个 AI Agent 怎么共用一份压缩 KV，把显存从爆炸压成一条平线》一文涉及的论文、代码与资料。
 
 ## 论文与官方实现
 
@@ -14,7 +14,7 @@ title: 求证 · PolyKV 多 Agent 共享 KV 缓存 · 主要来源
 🔗 <https://arxiv.org/abs/2604.24971>
 
 ### 🚀 PolyKV 官方代码仓库
-作者开源的实现，含 `python experiment.py` 复现入口。
+作者开源的实现，含一键复现入口（也可直接 `pip install polykv-llm`）。
 🔗 <https://github.com/ishan1410/PolyKV>
 
 ## 本文的独立复现
@@ -40,6 +40,6 @@ title: 求证 · PolyKV 多 Agent 共享 KV 缓存 · 主要来源
 
 ---
 
-📅 截至 **2026-05-31**。
+📅 截至 **2026-06-01**。
 
 [← 返回首页](./)

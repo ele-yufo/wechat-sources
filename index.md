@@ -9,7 +9,7 @@ title: 首页
 
 ## 已发布文章
 
-- [求证 · PolyKV：多 Agent 共享 KV 缓存省 97.7% 显存，是真的吗？我独立跑了一遍](./polykv.html)
+- [论文实战 · PolyKV：多个 AI Agent 怎么共用一份压缩 KV，把显存从爆炸压成一条平线](./polykv.html)
 - [「Vibe Coding 已死」？死的不是 AI，是你以为能闭眼许愿的那个幻觉](./vibe-coding-dead.html)
 - [深度拆解 Claude Opus 4.8：一个学会说"我不确定"的模型，和它身后那头不敢放出来的怪兽](./claude-opus-4-8.html)
 - [深度拆解 Gemini Spark：谷歌的"云端代理人"赶到了一个已经被预订满的派对](./gemini-spark.html)

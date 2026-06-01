@@ -69,6 +69,10 @@ grade-hacking、244 页系统卡相关报道。
 新分词器导致 token 用量上涨、被称"史上最烂发布"。
 🔗 <https://medium.com/vibe-coding/opus-4-7-is-the-worst-release-anthropic-has-ever-shipped-12772c21ca1e>
 
+## 系列深度解析（公众号自家）
+
+- 🪣 [深度拆解 MiniMax M3：一台水桶机，亲手锯掉了自己唯一的长板](./minimax-m3.html)
+
 ---
 
 📅 截至 **2026 年 5 月 29 日**。

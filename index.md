@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [深度拆解 MiniMax M3：一台水桶机，亲手锯掉了自己唯一的长板](./minimax-m3.html)
 - [论文实战 · PolyKV：多个 AI Agent 怎么共用一份压缩 KV，把显存从爆炸压成一条平线](./polykv.html)
 - [「Vibe Coding 已死」？死的不是 AI，是你以为能闭眼许愿的那个幻觉](./vibe-coding-dead.html)
 - [深度拆解 Claude Opus 4.8：一个学会说"我不确定"的模型，和它身后那头不敢放出来的怪兽](./claude-opus-4-8.html)

@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [AI 编程的体感骗局：你以为快了 20%，数据说你慢了 19%](./ai-coding-productivity-paradox.html)
 - [Claude Code 动态工作流：编排这件事，终于不靠"脑子"了](./dynamic-workflows.html)
 - [深度拆解 MiniMax M3：一台水桶机，亲手锯掉了自己唯一的长板](./minimax-m3.html)
 - [论文实战 · PolyKV：多个 AI Agent 怎么共用一份压缩 KV，把显存从爆炸压成一条平线](./polykv.html)

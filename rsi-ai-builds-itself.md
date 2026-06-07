@@ -5,56 +5,51 @@ title: AI 开始造自己了 · 主要来源
 
 # AI 开始造自己了 · 主要来源
 
-本页汇集《AI 开始造自己了：Anthropic 公布内部数据，一条衔尾蛇正在成形》一文中引用的所有原始资料。
+本页汇集《AI 开始造自己了：Anthropic 把内部账本摊开，一条衔尾蛇正在成形》一文中引用的原始资料，方便读者自行核实。
 
 ## 官方一手信源
 
 ### 📄 Anthropic《When AI Builds Itself》长文
-Anthropic 第一次公开 RSI 内部数据：80% 代码由 Claude 编写、52 倍加速、研究判断力超人类 64%
-🔗 https://www.anthropic.com/institute/recursive-self-improvement
+80% 代码由 Claude 写、52 倍加速、97% vs 23%、任务时长每 4 个月翻倍、研究判断 51%→64%——文中所有 Anthropic 数据与图表的出处。
+🔗 <https://www.anthropic.com/institute/recursive-self-improvement>
 
-### 📄 OpenAI《Democratic Governance of Frontier AI》蓝图
-OpenAI 同周发布，提到当前系统中已出现 RSI 的"第一束火花"
-🔗 https://openai.com/index/democratic-governance-of-frontier-ai/
+### 💬 Anthropic 官方发布推文（2.8 万赞 / 1778 万阅读）
+🔗 <https://x.com/AnthropicAI/status/2062568862479208923>
 
-### 🚀 Sakana AI RSI 实验室公告
-东京 AI 公司宣布成立 RSI Lab，已有 Darwin Gödel Machine、ALE-Agent、The AI Scientist 等积累
-🔗 https://x.com/SakanaAILabs/status/2062948403815030850
+### 📄 OpenAI 前沿安全治理蓝图
+OpenAI 承认当前系统已出现递归自我改进的"早期迹象"，并将其列为"未来十年最重大的前沿安全问题"之一。
+🔗 <https://openai.com/index/frontier-safety-blueprint/>
 
-## 社区讨论与分析
+### 🚀 Sakana AI 递归自我改进（RSI）实验室
+东京 Sakana AI 成立 RSI Lab，附 Darwin Gödel Machine、ALE-Agent、AI Scientist 的成果脉络。
+🔗 <https://sakana.ai/rsi-lab/>
 
-### 📰 日本学者松尾丰研究室分析
-东大松尾丰研究室对 Anthropic RSI 声明的技术分析，指出"造物主喊暂停"的矛盾
-🔗 https://x.com/ImAI_Eruel/status/2062875271200686194
+## 媒体报道与佐证
 
-### 📰 Benzinga 报道
-Reuters/Benzinga 对 Anthropic RSI 声明的新闻报道
-🔗 https://x.com/Benzinga/status/2062912722455384567
+### 📰 CNBC：孙正义称 AI 正在设计 OpenAI 的下一个模型
+软银孙正义把"超级智能"预测从十年压到两年。
+🔗 <https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html>
 
-### 📰 AP/Reuters 报道
-Anthropic urges AI labs to pause, warns humans risk losing control
-🔗 https://x.com/ShiningScience/status/2063487194183217188
+### 📰 CNBC：Anthropic 秘密递交 IPO 招股文件
+9650 亿美元估值、650 亿美元融资——"造物主一边喊暂停、一边排队上市"的事实背景。
+🔗 <https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html>
 
-## HN 讨论
+### 📰 TIME《A Tale of Two Anthropics》
+关于 Anthropic"安全叙事"与"商业疾跑"之间张力的报道。
+🔗 <https://time.com/article/2026/05/22/anthropic-claude-code-jack-clark-ai-safety/>
 
-### 💬 "Did Claude increase bugs in rsync?"
-501 分 / 518 评论，讨论 AI 写代码是否引入了更多 bug
-🔗 https://alexispurslane.github.io/rsync-analysis/
+## 社区讨论与批评
 
-### 💬 "Ask HN: Why is the HN crowd so anti-AI?"
-417 分 / 686 评论，HN 社区对 AI 的态度讨论
-🔗 https://news.ycombinator.com/item?id=48420827
-
-### 💬 "Programmers will document for Claude, but not for each other"
-185 分 / 157 评论，程序员只为 AI 写文档的讽刺现象
-🔗 https://blog.plover.com/2026/03/09/#documentation-wins-2
+### 📰 东大松尾丰研究室的技术分析
+对 Anthropic RSI 声明的冷静拆解，以及"喊暂停的人跑得最快"这一矛盾。
+🔗 <https://x.com/ImAI_Eruel/status/2062875271200686194>
 
 ## 系列深度解析（公众号自家）
 
-- 📄 [返回首页](./)
+- 🦾 [深度拆解 Claude Opus 4.8：一个学会说"我不确定"的模型，和它身后那头不敢放出来的怪兽](./claude-opus-4-8.html)
 
 ---
 
-📅 截至 **2026-06-07**。
+📅 截至 **2026 年 6 月 7 日**。
 
 [← 返回首页](./)

@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [AI 的隐藏账单：你没用过它，却月月在替它还电费](./ai-electricity-bill.html)
 - [AI 编程的体感骗局：你以为快了 20%，数据说你慢了 19%](./ai-coding-productivity-paradox.html)
 - [Claude Code 动态工作流：编排这件事，终于不靠"脑子"了](./dynamic-workflows.html)
 - [深度拆解 MiniMax M3：一台水桶机，亲手锯掉了自己唯一的长板](./minimax-m3.html)

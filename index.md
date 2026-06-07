@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [AI 开始造自己了：Anthropic 公布内部数据，一条衔尾蛇正在成形](./rsi-ai-builds-itself.html)
 - [AI 的隐藏账单：你没用过它，却月月在替它还电费](./ai-electricity-bill.html)
 - [AI 编程的体感骗局：你以为快了 20%，数据说你慢了 19%](./ai-coding-productivity-paradox.html)
 - [Claude Code 动态工作流：编排这件事，终于不靠"脑子"了](./dynamic-workflows.html)

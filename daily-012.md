@@ -11,7 +11,7 @@ layout: default
 
 - [OpenAI to acquire Ona — OpenAI](https://openai.com/index/openai-to-acquire-ona/)
 - [Gitpod is now Ona — Ona](https://ona.com/stories/gitpod-is-now-ona)
-- [DiffusionGemma： faster text generation — Google](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
+- [DiffusionGemma: faster text generation — Google](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
 - [Run DiffusionGemma locally on RTX AI PCs — NVIDIA](https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/)
 
 ## 开发者
@@ -21,7 +21,7 @@ layout: default
 - [What's new in Claude Managed Agents — Anthropic](https://claude.com/blog/whats-new-in-claude-managed-agents)
 - [Introducing dynamic workflows in Claude Code — Anthropic](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 - [Grok Build Plugin Marketplace — xAI](https://x.ai/news/grok-plugin-marketplace)
-- [Bugbot updates： June 2026 — Cursor](https://cursor.com/blog/bugbot-updates-june-2026)
+- [Bugbot updates: June 2026 — Cursor](https://cursor.com/blog/bugbot-updates-june-2026)
 
 ## 行业
 

@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [速报 · Fable 5 被美国政府勒令下架](./fable-5-pulled.html)
 - [深度拆解 Claude Fable 5：给神话戴上笼口，改名寓言，卖你两倍价](./claude-fable-5.html)
 - [AI 开始造自己了：Anthropic 把内部账本摊开，一条衔尾蛇正在成形](./rsi-ai-builds-itself.html)
 - [AI 的隐藏账单：你没用过它，却月月在替它还电费](./ai-electricity-bill.html)

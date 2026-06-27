@@ -39,5 +39,5 @@ layout: default
 - [高通拟将数据中心芯片堆叠架构引入手机 SoC，提升端侧 AI 能力 — 新浪科技](https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inievrew1527860.shtml)
 - [高通进军数据中心处理器，转型计算连续体平台 — 新浪财经](https://finance.sina.com.cn/tech/shenji/2026-06-25/doc-inieqskx7881402.shtml)
 - [Apple Vision Pro exec is reportedly leaving for OpenAI — TechCrunch](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
-- [智元拆出一家"灵巧手"独角兽，成立不足5月估值破10亿美元 — 澎湃新闻](https://m.thepaper.cn/newsDetail_forward_33200175)
-- [氪星晚报｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利 — 36氪](https://36kr.com/p/3869884559332356)
+- [OpenAI poaches Uber India chief to lead its biggest market outside the US — TechCrunch](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)
+- [Uber's Prabhjeet Singh to be OpenAI's MD in India — Times of India](https://timesofindia.indiatimes.com/business/india-business/ubers-prabhjeet-singh-to-be-openais-md-in-india/articleshow/132027302.cms)

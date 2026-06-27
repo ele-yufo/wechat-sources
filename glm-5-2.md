@@ -72,6 +72,7 @@ Anthropic 撤回针对 Claude 的争议政策，Fable 5 安全措施改为可见
 
 ## 系列深度解析（公众号自家）
 
+- 🍱 [深度拆解 Mixture of Agents：最强模型被一封信关停的那几天，一桌便宜货合议差点掀了王座](./mixture-of-agents.html)
 - 📄 [速报 · Fable 5 被美国政府勒令下架](./fable-5-pulled.html)
 - 📄 [深度拆解 Claude Fable 5：给神话戴上笼口，改名寓言，卖你两倍价](./claude-fable-5.html)
 

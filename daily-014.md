@@ -18,7 +18,6 @@ layout: default
 
 - [OpenCode v2: unified backend across TUI, desktop and web — OpenCode (X)](https://x.com/opencode/status/2071252446551191976)
 - [DeepSpec — speculative decoding to accelerate LLM inference — DeepSeek (GitHub)](https://github.com/deepseek-ai/DeepSpec)
-- [xAI Grok models now support Zero Data Retention on OpenRouter — X](https://x.com/elonmusk/status/2071092912000246106)
 
 ## 行业
 

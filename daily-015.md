@@ -19,7 +19,6 @@ layout: default
 - [Cursor Mobile App for iOS — Cursor Changelog](https://cursor.com/changelog/ios-mobile-app)
 - [Cursor now has a mobile app for guiding your coding agent on the go — TechCrunch](https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/)
 - [Brain2Qwerty v2: non-invasive brain-to-text decoder — Meta (X)](https://x.com/AIatMeta/status/2071566924803395741)
-- [xAI voice APIs now in the Vercel AI Gateway — xAI (X)](https://x.com/xai/status/2071661034683969977)
 - [Gemini's personalized AI image generation is now free for US users — TechCrunch](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/)
 
 ## 行业

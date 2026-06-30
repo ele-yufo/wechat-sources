@@ -65,6 +65,7 @@ SWE-Bench Pro 80.3、甩开次席 11 分，「state-of-the-art on nearly all tes
 
 ## 系列深度解析（公众号自家）
 
+- ⚰️ [有人在给一个被关掉的 AI 办葬礼，而它正背着一身人命官司](./ai-model-deprecation.html)
 - 🦝 [深度拆解 Claude Fable 5：给神话戴上笼口，改名寓言，卖你两倍价](./claude-fable-5.html)
 - 🚓 [速报 · Fable 5 被美国政府勒令下架](./fable-5-pulled.html)
 - 🔓 [深度拆解 GLM-5.2：最强模型被摁下线的那个周末，智谱把 SOTA 开源了](./glm-5-2.html)

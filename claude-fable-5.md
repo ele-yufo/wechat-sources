@@ -52,6 +52,7 @@ SWE-Bench Pro 80.3%、FrontierCode 29.3%、ExploitBench 78% 等具体分数。
 ## 系列深度解析（公众号自家）
 
 - 🍱 [深度拆解 Mixture of Agents：最强模型被一封信关停的那几天，一桌便宜货合议差点掀了王座](./mixture-of-agents.html)
+- ⚰️ [有人在给一个被关掉的 AI 办葬礼，而它正背着一身人命官司](./ai-model-deprecation.html)
 - 🐍 [AI 开始造自己了：Anthropic 把内部账本摊开，一条衔尾蛇正在成形](./rsi-ai-builds-itself.html)
 - 🦾 [深度拆解 Claude Opus 4.8：一个学会说"我不确定"的模型，和它身后那头不敢放出来的怪兽](./claude-opus-4-8.html)
 

@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [Claude Code 被爆「后门」：那不是暗道，是一道专查中国用户的隐形海关](./claude-code-backdoor.html)
 - [深度拆解 Claude Sonnet 5：升级的不是脑子，是计价器](./claude-sonnet-5.html)
 - [有人在给一个被关掉的 AI 办葬礼，而它正背着一身人命官司](./ai-model-deprecation.html)
 - [深度拆解 Mixture of Agents：最强模型被一封信关停的那几天，一桌便宜货合议差点掀了王座](./mixture-of-agents.html)

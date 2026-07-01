@@ -20,7 +20,6 @@ layout: default
 - [Introducing the Voice Agent Builder — xAI](https://x.ai/news/grok-voice-agent-builder)
 - [NVIDIA Releases Nemotron-Labs-TwoTower — MarkTechPost](https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/)
 - [Nemotron-TwoTower: Diffusion Language Modeling with Pretrained Autoregressive Context — arXiv](https://arxiv.org/abs/2606.26493)
-- [Gemini generative AI transparency (C2PA/SynthID) — Google AI (X)](https://x.com/GoogleAI/status/2072318809277390940)
 
 ## 行业
 

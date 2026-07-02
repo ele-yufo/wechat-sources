@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [大厂忙着造更聪明的神，我忙着给这个健忘又固执的神装一套关不掉的循环（Loop Engineering）](./loop-engineering.html)
 - [Claude Code 被爆「后门」：那不是暗道，是一道专查中国用户的隐形海关](./claude-code-backdoor.html)
 - [深度拆解 Claude Sonnet 5：升级的不是脑子，是计价器](./claude-sonnet-5.html)
 - [有人在给一个被关掉的 AI 办葬礼，而它正背着一身人命官司](./ai-model-deprecation.html)

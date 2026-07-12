@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [深度拆解 GPT-5.6：十天前我教你给模型搭循环，今天 OpenAI 把循环焊进了它骨头里](./gpt56-loop-engineering.html)
 - [DeepSeek 又更新了，但这次它一个脑细胞都没动（速览 DSpark）](./deepseek-dspark.html)
 - [大厂忙着造更聪明的神，我忙着给这个健忘又固执的神装一套关不掉的循环（Loop Engineering）](./loop-engineering.html)
 - [Claude Code 被爆「后门」：那不是暗道，是一道专查中国用户的隐形海关](./claude-code-backdoor.html)

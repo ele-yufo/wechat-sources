@@ -65,6 +65,7 @@ SWE-Bench Pro 80.3 的来源。
 
 ## 系列深度解析（公众号自家）
 
+- 🔁 [下一篇 · 深度拆解 GPT-5.6：这套循环，正在被 OpenAI 焊进模型的骨头](./gpt56-loop-engineering.html)
 - 🃏 [深度拆解 Mixture of Agents：最强模型被一封信关停的那几天，一桌便宜货合议差点掀了王座](./mixture-of-agents.html)
 - 🔧 [Claude Code 动态工作流：编排这件事，终于不靠"脑子"了](./dynamic-workflows.html)
 

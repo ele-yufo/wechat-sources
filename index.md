@@ -9,6 +9,7 @@ title: 首页
 
 ## 已发布文章
 
+- [Jev 连字都不吐，为什么能接进 Doom 的游戏循环？](./typesafe-jev.html)
 - [这周别花冤枉钱，全网疯传的AI白嫖口子真实账本](./ai-wool-audit.html)
 - [深度拆解 GPT-5.6：十天前我教你给模型搭循环，今天 OpenAI 把循环焊进了它骨头里](./gpt56-loop-engineering.html)
 - [DeepSeek 又更新了，但这次它一个脑细胞都没动（速览 DSpark）](./deepseek-dspark.html)
